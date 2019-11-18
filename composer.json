@@ -1,5 +1,5 @@
 {
-  "name": "jonathanraftery/oauth-bullhorn",
+  "name": "jonathanraftery/oauth2-bullhorn",
   "type": "library",
   "description": "Bullhorn OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
   "authors": [

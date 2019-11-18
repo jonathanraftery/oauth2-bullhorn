@@ -1,0 +1,8 @@
+{
+  "access_token":"mock_access_token",
+  "expires_in":28799,
+  "refresh_token":"mock_refresh_token",
+  "token_type":"Bearer",
+  "user_id":"01234567-89ab-cdef-0123-456789abcdef",
+  "session_nonce":"2bf3ec81701ec291"
+}

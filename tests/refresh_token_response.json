@@ -1,0 +1,8 @@
+{
+  "access_token":"811235f4-16d3-476e-b940-ed5dfc7d6513",
+  "expires_in":7199,
+  "refresh_token":"036b9495-b39d-4626-b53a-34399e7bc737",
+  "token_type":"Bearer",
+  "user_id":"01234567-89ab-cdef-0123-456789abcdef",
+  "session_nonce":"2bf3ec81701ec291"
+}

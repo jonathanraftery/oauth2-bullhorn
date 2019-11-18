@@ -1,0 +1,5 @@
+{
+  "id":       "rate_limit",
+  "message":  "Your account reached the API rate limit\nPlease wait a few minutes before making new requests",
+  "url":      "https://devcenter.heroku.com/articles/platform-api-reference#rate-limits"
+}
